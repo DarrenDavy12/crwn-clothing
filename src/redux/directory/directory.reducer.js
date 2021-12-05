@@ -20,14 +20,14 @@ const INITIAL_STATE = {
         },
         {
           title: 'womens',
-          imageUrl: 'https://images.unsplash.com/photo-1489939078242-0a1dc4a08f06?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80',
+          imageUrl: 'https://images.unsplash.com/photo-1568127861543-b0c0696c735f?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80',
           size: 'large',
           id: 4,
           linkUrl: 'shop/womens'
         },
         {
           title: 'mens',
-          imageUrl: 'https://images.unsplash.com/photo-1517865288-978fcb780652?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80',
+          imageUrl: 'https://images.unsplash.com/photo-1588179575550-7488ead174a8?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80',
           size: 'large',
           id: 5,
           linkUrl: 'shop/mens'
