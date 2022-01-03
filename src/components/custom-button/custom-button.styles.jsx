@@ -6,7 +6,7 @@ color: white;
 border: none;
 
 &:hover {
-  background-color: white;
+  background-color: cyan;
   color: black;
   border: 1px solid black;
 }
@@ -18,8 +18,8 @@ color: black;
 border: 1px solid black;
 
     &:hover {
-    background-color: black;
-    color: white;
+    background-color: cyan;
+    color: black;
     border: none;
     }
 `;
@@ -53,7 +53,7 @@ export const CustomButtonContainer = styled.button`
   font-size: 15px;
   background-color: black;
   text-transform: uppercase;
-  font-family: 'Open Sans Condensed';
+  font-family: 'Rationale';
   font-weight: bolder;
   cursor: pointer;
   display: flex;
